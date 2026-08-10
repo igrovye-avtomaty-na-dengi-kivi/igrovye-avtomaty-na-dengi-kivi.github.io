@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: igrovye-avtomaty-na-dengi-kivi.github.io
+Sitemap: https://igrovye-avtomaty-na-dengi-kivi.github.io/sitemap.xml
